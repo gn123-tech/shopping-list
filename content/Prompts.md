@@ -11,6 +11,8 @@
 1. ~~What I can buy TODAY: Deals active right now in the current flyer cycle, including exact prices and unit quantities.~~
 2. ~~What I can buy in the NEXT flyer cycle: Upcoming deals starting in the new cycle, including exact prices and unit quantities.~~
 
+npx quartz sync
+
 ---
 
 Check the current and upcoming grocery flyers for Super C, Metro, IGA, and Maxi in Quebec City. Look for whole, unprocessed, single-ingredient foods and clean-label healthy pantry essentials that are great to buy and stock up on across the following categories:
