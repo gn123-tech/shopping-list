@@ -1,3 +1,17 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+// quartz/styles/custom.scss
+
+// Target the search bar container to remove transparency
+.search-container, 
+.search-space, 
+#search-bar {
+  background-color: #1A1A1A !important; /* Makes it solid using your background color */
+  opacity: 1 !important;
+}
+
+// If it's the active search popup/modal overlay background
+.search-layout {
+  background-color: rgba(26, 26, 26, 0.95) !important; /* Highly opaque dark background */
+}
